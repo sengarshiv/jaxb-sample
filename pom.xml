@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.todo.app</groupId>
-	<artifactId>TodoApp</artifactId>
+	<artifactId>jaxb-sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TodoApp</name>
-	<description>TodoApp</description>
+	<name>jaxb-sample</name>
+	<description>jaxb-sample</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
